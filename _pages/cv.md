@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Southern University of Science and Technology, 2026 (expected)
+  - Ph.D. student at the department of mathematics, college of science, SUSTech
+  - Supervised by Professor Yiying Zhang
+* M.S. in Statistics, Qufu Normal University, 2022
+  - Master in Statistics, School of Statistics
+  - Supervised by Professor Chuancun Yin
+* B.S. in Mathematics and Applied Mathematics, Qufu Normal University, 2018
 
-Work experience
+Selected Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* The Third Prize in National Outstanding Graduate Students Workshop, 04/2024
+* Outstanding Dissertation Award of Shandong Province, 12/2023
+* Outstanding Teaching Assistant of SUSTech, 04/2023
+* National Scholarship of China, 12/2021
+* The Third Prize in 2020 National Graduate Statistical Modeling Competition of China, 03/2020
+* Honorable Mentioned in 2017 Mathematical Contest In Modeling, 12/2017
+* The Third Prize in The Seventh Mathematics competition of Chinese College Students, 11/2015
 
 Publications
 ======
@@ -62,3 +50,8 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Skills and Expertise
+======
+* Programming Languages: Python, MATLAB, R (ranked by proficiency).
+* Current Research Interests: Risk measures, stochastic orders, dependence structures.
