@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Probability and Statistics"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course, tutorial"
 permalink: /teaching/2023-fall
 venue: "Southern University of Science and Technology"
 date: 2023-09-01
