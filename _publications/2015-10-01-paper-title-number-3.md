@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Generalized Location-Scale Mixtures of Elliptical Distributions: Definitions and Stochastic Comparisons"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'The authors introduce integral stochastic orderings of a class of asymmetric distributions. This class of distributions extends from elliptical location-scale mixture distributions and includes many useful special cases.'
 date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://doi.org/10.1080/03610926.2023.2165407'
+citation: 'Tong Pu, Yiying Zhang, Chuancun Yin. (2023). Generalized Location-Scale Mixtures of Elliptical Distributions: Definitions and Stochastic Comparisons, Communications in Statistics-Theory and Methods, 1, 1-25.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+* In this paper, the authors introduce integral stochastic orderings of a class of asymmetric distributions. This class of distributions extends from elliptical location-scale mixture distributions and includes many useful special cases.  
+* The authors derive some necessary and sufficient conditions for comparing the random vectors from this class of distributions.
